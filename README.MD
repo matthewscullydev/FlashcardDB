@@ -7,8 +7,10 @@ Clone the github repository using:
 After cloning install docker on your CLI instance of linux
 
 In our demo we use Ubuntu(WSL) and install docker using:
-``` sudo apt-get install docker
-    sudo apt-get install docker.io
+
+``` 
+sudo apt-get install docker
+sudo apt-get install docker.io
 ```
 
 We then run the following two commands to build, and then run the container.
